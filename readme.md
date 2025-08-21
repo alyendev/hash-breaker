@@ -104,3 +104,7 @@ Made by [@alyendev](https://github.com/alyendev)
 This project is provided solely for educational and cybersecurity research purposes. It must not be used for illegal activities or to compromise the security of systems without authorization. The author is not responsible for any misuse of this tool.
 
 If you choose to use this software, make sure you comply with the laws and regulations of your country.
+
+---
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/alyendev/hash-breaker)
